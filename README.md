@@ -1,6 +1,6 @@
 # Binary Search Tree Implementation
 
-This project implements a Binary Search Tree (BST) data structure in Python with comprehensive testing and performance evaluation.
+This project implements a Binary Search Tree (BST) data structure in Python with testing and performance evaluation.
 
 ## Features
 
@@ -11,7 +11,7 @@ This project implements a Binary Search Tree (BST) data structure in Python with
   - InorderTraverse: Print tree contents in-order
   - Find: Search for specific values
 
-- Comprehensive testing suite
+- Testing suite
 - Performance evaluation for different tree sizes
 
 ## Setup and Running
@@ -48,7 +48,3 @@ Evaluates BST performance with:
 - 1,000 nodes
 - 10,000 nodes
 - 100,000 nodes
-
-## License
-
-MIT License
